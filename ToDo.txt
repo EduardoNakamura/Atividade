@@ -1,2 +1,1 @@
 Implementar opções
-IMplementar caracteres de texto
